@@ -1,3 +1,3 @@
-Descrizione progetto
+Descrizione del progetto
 
 Rimossa feature 13
